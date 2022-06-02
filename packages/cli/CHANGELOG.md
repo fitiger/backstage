@@ -1,5 +1,11 @@
 # @backstage/cli
 
+## 0.17.2-next.2
+
+### Patch Changes
+
+- 9002ebd76b: Updated dependency `@rollup/plugin-commonjs` to `^22.0.0`.
+
 ## 0.17.2-next.1
 
 ### Patch Changes
